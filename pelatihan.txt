@@ -1,0 +1,10 @@
+Rencana Pelatihan RPL 2022
+- Programming Language
+  * JS
+  * PHP
+  * Golang
+- Framework
+  * JS
+    ^ React
+  * PHP
+    ^ Codeigniter
