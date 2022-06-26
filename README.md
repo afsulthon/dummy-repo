@@ -1,2 +1,2 @@
-# sinau-github
-Sinau nggunakake Git lan GitHub adhedhasar pandhuan saka bootcamp Lab RPL ITS 2022
+# dummy-repo
+a repository for doing whatever i want in GitHub
