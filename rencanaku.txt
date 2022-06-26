@@ -3,3 +3,4 @@ Rencanaku ke depan:
 - Benar, tidak tahu
 - Loh, bener-bener gak tahu
 - Eh, btw kok mirip tutorial-nya WPU ya :)
+- Jika baris ini muncul, maka saya berhasil menggunakan ekstensi GitHub Remote di VSCode.
