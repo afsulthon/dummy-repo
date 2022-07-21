@@ -1,7 +1,0 @@
-Rencana Pelatihan yang Akan Aku Ikuti:
-
-- Pelatihan Machine Learning
-- Pelatihan Data Mining
-- Pelatihan Data Science
-- Pelatihan Front End Development (HTML, CSS, JavaScript)
-- Pelatihan Back End Development (PHP, Python, Ruby)
